@@ -1,0 +1,57 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  margin: auto;
+}
+
+
+.form{
+  margin: 20px;
+  border: 6px black solid;
+  width: 80%;
+  padding: 10px;
+  background-color: lightblue;
+}
+
+
+.form-group{
+  text-align: center;
+  margin-top: 20px;
+  
+}
+
+.form h1{
+  text-align: center; 
+}
+
+.form .text{
+  width: 80%;
+}
+
+.button{
+  size: 5px;
+}
+
+.container{
+  border: 6px black solid;
+  width: 80%;
+  padding: 5px;
+  background-color: mediumpurple;
+ 
+}
+
+.container h1{
+  text-align: center;
+  
+}
+.List{
+  border:2px;
+  width:80%;
+  padding: 2px;
+}
+
+
+
